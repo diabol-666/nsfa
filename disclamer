@@ -1,0 +1,6 @@
+echo "# nsfa" >> README.md
+git init
+git add README.md
+git commit -m "The contents of this channel may be harsh, crude, rude, not friendly, awkward, none religious, semi racial, and not for virgin ears, eyes, or ass."
+git remote add origin https://github.com/diabol-666/nsfa.git
+git push -u origin master
